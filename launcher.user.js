@@ -882,7 +882,7 @@ console.log("Running Bot Launcher!");
   dArc = [],
   dText = [],
   lines = [],
-  originalName = "KooK-cheats.esy.es",
+  originalName = "bit.do/KooKHack",
   sessionScore = 0,
   serverIP = "",
   interNodes = [],
