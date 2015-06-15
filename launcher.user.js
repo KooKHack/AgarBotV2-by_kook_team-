@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name        RedLauncher
-// @namespace   RedLauncher
+// @namespace   RedLauncher[by_kook_team]
 // @include     http://agar.io/
 // @version     1.20
 // @grant       none
-// @author      youtube.com/RednelssPlay
+// @author      kook-cheats.esy.es
 // ==/UserScript==
 
 Number.prototype.mod = function(n) {
