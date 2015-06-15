@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        RedLauncher
+// @name        RedLauncher[by_kook_team]
 // @namespace   RedLauncher[by_kook_team]
 // @include     http://agar.io/
 // @version     1.20
