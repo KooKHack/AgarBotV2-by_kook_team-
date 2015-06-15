@@ -882,7 +882,7 @@ console.log("Running Bot Launcher!");
   dArc = [],
   dText = [],
   lines = [],
-  originalName = "vk.com/BotAgar",
+  originalName = "KooK-cheats.esy.es",
   sessionScore = 0,
   serverIP = "",
   interNodes = [],
