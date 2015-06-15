@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name        RedBot
-// @namespace   RedBot
+// @name        RedBot[by_kook_team]
+// @namespace   RedBot[by_kook_team]
 // @include     http://agar.io/
 // @version     1.21
 // @grant       none
-// @author      youtube.com/RednelssPlay
+// @author      kook-cheats.esy.es
 // ==/UserScript==
 
 
